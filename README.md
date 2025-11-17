@@ -21,7 +21,7 @@ LLM Reasoning • Multi-Agent Systems • Conversational RAG • AI for Healthca
 </div>
 
 
-> © 2025 Bai Ye
+> © 2025
 > *Exploring AI solutions that bridge technology and real-world healthcare impact.*
 
 
