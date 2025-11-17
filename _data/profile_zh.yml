@@ -1,0 +1,74 @@
+primary_name: "白晔"
+secondary_name: ""
+navbar_name: "白晔"
+
+positions:
+- name: 墨尔本大学医疗人工智能方向博士生
+
+email: "ye.bai2(at)student.unimelb.edu.au"
+# cv_link: link-to-your-cv-file
+gscholar: g5tMC-IAAAAJ&hl
+github: bettyandv
+# twitter: your_twitter_id
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: ye-bai-27053a100
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    我目前是墨尔本大学一年级博士生，导师为
+    <a href="https://www.svph.org.au/specialists/prof-david-oneal-endocrinologist" target="_blank">Prof. David O'Neal </a>。
+  </p>
+  # <p>
+  #   担任NIPS、IJCAI、ACM TIST等会议和期刊的审稿人，已审稿10余篇。
+  # </p>
+  <p>
+    <strong>研究方向：</strong>智能体大语言模型 • AI 辅助的糖尿病管理
+  </p>
+  <p style="border: 2px solid #007bff; border-radius: 10px; padding: 10px; display: inline-block; text-align: center; background-color: #e6f3ff;">期待26年暑期实习机会！！🙏</p>
+
+
+# portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: >-
+
+education:
+- name: 墨尔本大学
+  logo: /assets/images/badges/UoM.jpg
+  position: 人工智能博士（医疗健康方向）
+  date: 2025年10月 – 至今
+- name: 蒙纳士大学
+  logo: /assets/images/badges/monash.png
+  position: 人工智能硕士
+  date: 2023年3月 – 2025年6月
+- name: 北京理工大学
+  logo: /assets/images/badges/BIT.png
+  position: 专业会计硕士
+  date: 2016年9月 – 2018年6月
+- name: 北京理工大学
+  logo: /assets/images/badges/BIT.png
+  position: 会计学学士
+  date: 2012年9月 – 2016年6月
+
+experience:
+- name: 华能贵诚信托有限公司
+  logo: /assets/images/badges/Hng.jpg
+  position: 信托会计
+  date: 2017年6月 – 2022年7月
+# - name: 香港中文大学
+#   logo: /assets/images/badges/CU.png
+#   position: 科研助理
+#   date: 2024年9月 - 2025年1月
+
+awards:
+- name: 墨尔本大学全额博士奖学金
+  date: 2025
+- name: 蒙纳士大学人工智能硕士（Distinction 优秀毕业）
+  date: 2025
+- name: 国家奖学金（前 2.5%），北京理工大学
+  date: 2016
+- name: 北京理工大学优秀毕业生
+  date: 2016
+
