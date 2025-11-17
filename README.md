@@ -15,7 +15,7 @@ LLM Reasoning • Multi-Agent Systems • Conversational RAG • AI for Healthca
 
 <br>
 
-📧 ye.bai2(at)student.unimelb.edu.au • 📘 [Google Scholar](https://scholar.google.com/citations?user=g5tMC-IAAAAJ&hl=zh-CN) • 🐱 [GitHub](https://github.com/bettyandv) • 💼 [LinkedIn](https://www.linkedin.com/in/ye-bai-27053a100/)
+📧 ye.bai2(at)student.unimelb.edu.au • [Google Scholar](https://scholar.google.com/citations?user=g5tMC-IAAAAJ&hl=zh-CN) • [GitHub](https://github.com/bettyandv) • [LinkedIn](https://www.linkedin.com/in/ye-bai-27053a100/)
 
 </div>
 
@@ -23,44 +23,47 @@ LLM Reasoning • Multi-Agent Systems • Conversational RAG • AI for Healthca
 
 ---
 
-##  Education
+## Education
 
-### 🎓 **University of Melbourne**  
-**Ph.D. in Artificial Intelligence (Healthcare Applications)**  
-*Oct 2025 – Present*  
-- Supervisors: David O’Neal, Ting Dang, Dale Morrison  
-- Research: AI-assisted diabetes management, multimodal signals, LLM reasoning
+<div style="display: flex; justify-content: space-between;">
 
-### 🎓 **Monash University**  
-**Master of Artificial Intelligence**  
-*Mar 2023 – Jun 2025* **GPA: 3.938 / 4**  
-- Courses: ML, NLP, DL, RL, Multi-Agent Systems  
-- 🥇 **Top 3%** in Object Detection Kaggle competition  
-- Thesis: *Table Reasoning with Large Language Models* (supervised by Trang Vu)
+<div style="flex: 1;">
 
-### 🎓 **Beijing Institute of Technology**  
-**Master of Professional Accounting**  
-*2016 – 2018* GPA: 3.83 / 4  
-- Passed all **CPA** exams & **CFA Level II**
+- 🎓 **University of Melbourne**  
+  *Ph.D. in Artificial Intelligence (Healthcare Applications)*  
+  *Oct 2025 – Present*
 
-### 🎓 **Beijing Institute of Technology**  
-**Bachelor of Accounting**  
-*2012 – 2016* GPA: 3.73 / 4  
-- **National Scholarship** (top 2.5%)  
-- **Outstanding Graduate Award**
+- 🎓 **Monash University**  
+  *Master of Artificial Intelligence*  
+  *Mar 2023 – Jun 2025*
 
----
+- 🎓 **Beijing Institute of Technology**  
+  *Master of Professional Accounting*  
+  *Sep 2016 – Jun 2018*
 
-## 💼 Professional Experience
+- 🎓 **Beijing Institute of Technology**  
+  *Bachelor of Accounting*  
+  *Sep 2012 – Jun 2016*
 
-### **Huaneng Guicheng Trust Co., Ltd.**  
-**Trust Project Accountant**  
-*Jun 2017 – Jul 2022*  
-- Managed **300+ trust projects** totaling ¥ 50+ billion  
-- Built automated financial reporting systems together with developers  
-- Conducted monthly forecasts, balance checks, and performance analysis  
+</div>
+
+</div>
 
 ---
+
+## Experience
+
+<div style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1;">
+
+- 💼 **Huaneng Guicheng Trust Co., Ltd.**  
+  *Trust Project Accountant*  
+  *Jun 2017 – Jul 2022*
+
+</div>
+
+</div>
 
 > © 2025 Bai Ye
 > *Exploring AI solutions that bridge technology and real-world healthcare impact.*
