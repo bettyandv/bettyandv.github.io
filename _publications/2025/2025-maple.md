@@ -21,7 +21,7 @@ authors:
   - Minghan Wang
   - Thuy-Trang Vu
 links:
-  Paper: https://arxiv.org/abs/2506.05813
+  Paper: https://aclanthology.org/2025.alta-main.10/
   Code: https://github.com/bettyandv/MAPLE-table-reasoning
   # Project Page: /publications/divscore.html
 # links_zh:
